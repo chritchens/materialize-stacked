@@ -1,0 +1,14 @@
+{
+  "name": "materialize-stacked",
+  "version": "0.0.0",
+  "authors": [
+    "chritchens <chritchens@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
